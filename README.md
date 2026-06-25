@@ -1,5 +1,7 @@
 # Simple Text Document Analyzer
 
+> 📚 **Course:** Fundamentals of Programming — Summer 2025, NUST SEECS
+
 A simplified C++ text analysis tool that analyzes text documents and compares their similarity using the Jaccard coefficient.
 
 ## Features
@@ -146,5 +148,5 @@ This is a simple educational project. Feel free to modify and use as needed.
 
 Built collaboratively by:
 - **[Muhammad Taha](https://github.com/MuhammadTaha305)**
-- **Maier Ali**
+- **[Maier Ali](https://github.com/atomicfalcon)**
 - **Aytesam Sohail**
